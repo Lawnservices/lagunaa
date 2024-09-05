@@ -1,0 +1,32 @@
+body{
+  background-color: forestgreen;
+  padding: 0;
+  margin: 0;
+}
+.navbar{
+  background-color: #fff;
+  overflow: hidden;
+}
+.navbar li a{
+  text-decoration: none;
+  list-style: none;
+}
+.navbar a{
+  color: black;
+  font-weight: 600px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#foto{
+  width: 360px;
+  height: 260px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aliceblue;
+  margin-top: 100px;
+  box-shadow: 0px 0px 3px 3px #003349;
+   
+}
+#foto{
+background-image: url(https://miguellaguna.com/img/06.jpg);
+background-size: cover;
+}
