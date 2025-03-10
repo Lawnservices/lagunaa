@@ -1,1 +1,4 @@
-document.getElementById('#fotos').innerHTML = "hola";
+document.addEventListener('DOMContentLoaded', function(){
+document.querySelector('.fecha').textContent = new Date().getFullYear();
+
+});
